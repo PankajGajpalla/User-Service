@@ -278,3 +278,5 @@ heavier ORM/migration needs, Django would be the stronger choice.
 
 - **AI tools used:** Claude (Anthropic) was used to scaffold this project.
 - **Manual modifications** Given time constraints, I used Claude to scaffold the majority of the project (structure, boilerplate, routes, service layer, Docker setup, and README) rather than writing every line from scratch. I reviewed the full implementation to ensure I understand each part — the request/response flow, the validation logic, the search/pagination query, and the JWT auth flow — and can explain any part of it.
+
+### task completed!
